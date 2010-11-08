@@ -1,0 +1,17 @@
+h1. Purpose
+
+If you are here then you must know the pains of dealing with numerous Rpm packages in a Linux distribution.
+
+The goal of this library is to provide a rich set of combinators for dealing with a collection of Rpm packages.
+
+Once you have the code you can:
+
+* Configure the test and coverage executable with cabal configure -ftests -fhpc
+
+* Build the library with _cabal build_
+
+* Create documentation with cabal haddock
+
+Usage examples to come soon.
+
+
